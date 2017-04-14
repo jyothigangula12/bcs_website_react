@@ -1,0 +1,6 @@
+Bugs tracking
+
+1. Extra buttons on calendar display and hide for each event
+2. Duplicate products on the cart page to be combined
+3. Check the decimals on totals
+ 
